@@ -58,4 +58,17 @@
       git push -u origin main
       
 
-## Selesai
+## Flowchart
+
+### Penjelasan:
+1. *Mulai*: Proses dimulai.
+2. *Input bilangan1*: Pengguna diminta untuk memasukkan bilangan pertama.
+3. *Input bilangan2*: Pengguna diminta untuk memasukkan bilangan kedua.
+4. *Input bilangan3*: Pengguna diminta untuk memasukkan bilangan ketiga.
+5. *Bandingkan bilangan1 dengan bilangan2*: Jika bilangan1 lebih besar atau sama dengan bilangan2, lanjutkan ke langkah berikutnya. Jika tidak, lanjutkan ke langkah 6.
+6. *Bandingkan bilangan1 dengan bilangan3*: Jika bilangan1 lebih besar atau sama dengan bilangan3, maka bilangan1 adalah yang terbesar. Jika tidak, bilangan3 adalah yang terbesar.
+7. *Bandingkan bilangan2 dengan bilangan3*: Jika bilangan2 lebih besar atau sama dengan bilangan3, maka bilangan2 adalah yang terbesar. Jika tidak, bilangan3 adalah yang terbesar.
+8. *Output*: Tampilkan bilangan terbesar yang ditemukan.
+9. *Selesai*: Proses berakhir.
+
+
